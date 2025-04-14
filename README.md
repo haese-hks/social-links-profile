@@ -22,9 +22,9 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github Pages](#)
+- Live Site URL: [Github Pages](https://haese-hks.github.io/social-links-profile/)
 
-- Solution URL: [Frontend Mentor](#)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-xFuVLn5v7H)
 
 ### My Process
 
