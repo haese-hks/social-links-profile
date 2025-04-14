@@ -76,7 +76,7 @@ address {
   margin-bottom: 1.7rem;
 }
 
-section > p {
+.content > p {
   font-size: 1rem;
   color: #ccc;
   margin-bottom: 1.7rem;
@@ -117,10 +117,11 @@ a:hover {
   }
 
   ul {
-    gap: 1rem;
+    gap: .85rem;
   }
 
   a {
-    padding: 1rem;
+    font-size: 14px;
+    padding: .75rem;
   }
 }
