@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Version](./assets/images/Screenshot-desktop.png)
-
 ![Mobile Version](./assets/images/Screenshot-mobile.png)
+
+![Desktop Version](./assets/images/Screenshot-desktop.png)
 
 ### Links
 
